@@ -37,10 +37,16 @@ const Index = () => (
       <h3>What I Deliver</h3>
       <ul>
         <li>Reusable React component libraries with clean separation of concerns</li>
-        <li>Performance-optimized UIs through code-splitting, memoization, and efficient state management</li>
+        <li>
+          Performance-optimized UIs through code-splitting,
+          memoization, and efficient state management
+        </li>
         <li>Responsive, mobile-first interfaces that look great on every device</li>
         <li>Seamless integration with REST APIs and modern backend services</li>
-        <li>AI-assisted development workflows that boost iteration speed without sacrificing quality</li>
+        <li>
+          AI-assisted development workflows that boost
+          iteration speed without sacrificing quality
+        </li>
       </ul>
       <h3>Technical Skills</h3>
       <p>
