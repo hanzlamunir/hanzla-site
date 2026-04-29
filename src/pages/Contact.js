@@ -26,8 +26,8 @@ const Contact = () => (
           I&apos;m open to discussing frontend engineering roles, freelance projects,
           and collaboration on interesting React/Next.js work — drop me a line.
         </p>
-        <a href="tel:+923070401940" rel="noreferrer" target="_blank">
-          <FontAwesomeIcon icon={faPhone} /> (+92) 307 0401940
+        <a href="tel:+923016324243" rel="noreferrer" target="_blank">
+          <FontAwesomeIcon icon={faPhone} /> (+92) 301 6324243
         </a>
         <br />
         <a href="mailto:mehanzlamunir1@gmail.com" rel="noreferrer" target="_blank">
